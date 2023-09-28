@@ -1,0 +1,14 @@
+.carousel-item {
+    width: 100%;
+    height: calc(50vw * 0.75);
+    object-fit: cover;
+}
+.carousel-item > img {
+    position: absolute;
+    top: -40%;
+}
+.content {
+    width: 90%;
+    margin: 0px auto 50px auto;
+    text-align: justify;
+}
